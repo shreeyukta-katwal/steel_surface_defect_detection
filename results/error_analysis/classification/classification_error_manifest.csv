@@ -1,0 +1,33 @@
+model,class_name,class_index,error_type,rank,image_id,true_label,predicted_label,probability,figure_path
+Baseline ResNet18,Class 1,1,false_negative,1,fc0541a53.jpg,1,0,0.059403978288173676,results/error_analysis/classification/baseline_class1_false_negative_1.png
+Baseline ResNet18,Class 1,1,false_negative,2,f9b98ab64.jpg,1,0,0.06688889116048813,results/error_analysis/classification/baseline_class1_false_negative_2.png
+Baseline ResNet18,Class 1,1,false_positive,1,681af7b91.jpg,0,1,0.7696957588195801,results/error_analysis/classification/baseline_class1_false_positive_1.png
+Baseline ResNet18,Class 1,1,false_positive,2,b568146ec.jpg,0,1,0.7673652172088623,results/error_analysis/classification/baseline_class1_false_positive_2.png
+Baseline ResNet18,Class 2,2,false_negative,1,e97006670.jpg,1,0,0.05047394335269928,results/error_analysis/classification/baseline_class2_false_negative_1.png
+Baseline ResNet18,Class 2,2,false_negative,2,0c6720401.jpg,1,0,0.10452812910079956,results/error_analysis/classification/baseline_class2_false_negative_2.png
+Baseline ResNet18,Class 2,2,false_positive,1,f9b98ab64.jpg,0,1,0.7819114327430725,results/error_analysis/classification/baseline_class2_false_positive_1.png
+Baseline ResNet18,Class 2,2,false_positive,2,b08712015.jpg,0,1,0.6913871169090271,results/error_analysis/classification/baseline_class2_false_positive_2.png
+Baseline ResNet18,Class 3,3,false_negative,1,82e82b713.jpg,1,0,0.053948309272527695,results/error_analysis/classification/baseline_class3_false_negative_1.png
+Baseline ResNet18,Class 3,3,false_negative,2,85b72c878.jpg,1,0,0.08644410967826843,results/error_analysis/classification/baseline_class3_false_negative_2.png
+Baseline ResNet18,Class 3,3,false_positive,1,b08f17760.jpg,0,1,0.9267652034759521,results/error_analysis/classification/baseline_class3_false_positive_1.png
+Baseline ResNet18,Class 3,3,false_positive,2,7e18303fd.jpg,0,1,0.8961288332939148,results/error_analysis/classification/baseline_class3_false_positive_2.png
+Baseline ResNet18,Class 4,4,false_negative,1,2749c24a9.jpg,1,0,0.1952892541885376,results/error_analysis/classification/baseline_class4_false_negative_1.png
+Baseline ResNet18,Class 4,4,false_negative,2,7982045ad.jpg,1,0,0.22370480000972748,results/error_analysis/classification/baseline_class4_false_negative_2.png
+Baseline ResNet18,Class 4,4,false_positive,1,0d1b42754.jpg,0,1,0.8112539649009705,results/error_analysis/classification/baseline_class4_false_positive_1.png
+Baseline ResNet18,Class 4,4,false_positive,2,ded3e76e3.jpg,0,1,0.7170282602310181,results/error_analysis/classification/baseline_class4_false_positive_2.png
+CBAM-ResNet18,Class 1,1,false_negative,1,9d57d9095.jpg,1,0,0.0889698937535286,results/error_analysis/classification/cbam_class1_false_negative_1.png
+CBAM-ResNet18,Class 1,1,false_negative,2,fc0541a53.jpg,1,0,0.10445147007703781,results/error_analysis/classification/cbam_class1_false_negative_2.png
+CBAM-ResNet18,Class 1,1,false_positive,1,acd30bd6a.jpg,0,1,0.6228013038635254,results/error_analysis/classification/cbam_class1_false_positive_1.png
+CBAM-ResNet18,Class 1,1,false_positive,2,f3e1e7c47.jpg,0,1,0.5685300230979919,results/error_analysis/classification/cbam_class1_false_positive_2.png
+CBAM-ResNet18,Class 2,2,false_negative,1,0c6720401.jpg,1,0,0.10834962129592896,results/error_analysis/classification/cbam_class2_false_negative_1.png
+CBAM-ResNet18,Class 2,2,false_negative,2,e97006670.jpg,1,0,0.11489488929510117,results/error_analysis/classification/cbam_class2_false_negative_2.png
+CBAM-ResNet18,Class 2,2,false_positive,1,f9b98ab64.jpg,0,1,0.6872692704200745,results/error_analysis/classification/cbam_class2_false_positive_1.png
+CBAM-ResNet18,Class 2,2,false_positive,2,e9f4baa36.jpg,0,1,0.6065345406532288,results/error_analysis/classification/cbam_class2_false_positive_2.png
+CBAM-ResNet18,Class 3,3,false_negative,1,82e82b713.jpg,1,0,0.06549063324928284,results/error_analysis/classification/cbam_class3_false_negative_1.png
+CBAM-ResNet18,Class 3,3,false_negative,2,8981c24c8.jpg,1,0,0.10852040350437164,results/error_analysis/classification/cbam_class3_false_negative_2.png
+CBAM-ResNet18,Class 3,3,false_positive,1,b9acd9a0f.jpg,0,1,0.8218144178390503,results/error_analysis/classification/cbam_class3_false_positive_1.png
+CBAM-ResNet18,Class 3,3,false_positive,2,c1482dc0c.jpg,0,1,0.8107492923736572,results/error_analysis/classification/cbam_class3_false_positive_2.png
+CBAM-ResNet18,Class 4,4,false_negative,1,7982045ad.jpg,1,0,0.13297708332538605,results/error_analysis/classification/cbam_class4_false_negative_1.png
+CBAM-ResNet18,Class 4,4,false_negative,2,61457b567.jpg,1,0,0.16351418197155,results/error_analysis/classification/cbam_class4_false_negative_2.png
+CBAM-ResNet18,Class 4,4,false_positive,1,4340e1e42.jpg,0,1,0.8877487778663635,results/error_analysis/classification/cbam_class4_false_positive_1.png
+CBAM-ResNet18,Class 4,4,false_positive,2,d9d9f2b25.jpg,0,1,0.8387912511825562,results/error_analysis/classification/cbam_class4_false_positive_2.png

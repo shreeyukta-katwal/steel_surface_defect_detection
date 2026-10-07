@@ -1,0 +1,7 @@
+image_id,target_class,baseline_probability,cbam_probability,figure_path
+000a4bcdd.jpg,Class 1,0.940416,0.689529,results/gradcam/classification/example_01_gradcam.png
+000f6bf48.jpg,Class 4,0.908792,0.842291,results/gradcam/classification/example_02_gradcam.png
+00af2671f.jpg,Class 3,0.869935,0.934291,results/gradcam/classification/example_03_gradcam.png
+026183d85.jpg,Class 2,0.391587,0.462631,results/gradcam/classification/example_04_gradcam.png
+0141c9bf3.jpg,Class 3,0.972248,0.914922,results/gradcam/classification/example_05_gradcam.png
+01764ee81.jpg,Class 3,0.880945,0.592181,results/gradcam/classification/example_06_gradcam.png

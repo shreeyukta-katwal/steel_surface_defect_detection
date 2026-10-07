@@ -1,0 +1,7 @@
+image_id,target_class,target_probability,mean_channel_attention,max_channel_attention,mean_spatial_attention,max_spatial_attention,figure_path
+000a4bcdd.jpg,Class 1,0.689529,0.554670,0.999998,0.710837,0.995995,results/attention/cbam/example_01_cbam_attention.png
+000f6bf48.jpg,Class 4,0.842291,0.535878,0.999999,0.690951,0.994850,results/attention/cbam/example_02_cbam_attention.png
+00af2671f.jpg,Class 3,0.934291,0.552470,1.000000,0.741949,0.991390,results/attention/cbam/example_03_cbam_attention.png
+026183d85.jpg,Class 2,0.462631,0.541235,0.999961,0.651153,0.994593,results/attention/cbam/example_04_cbam_attention.png
+0141c9bf3.jpg,Class 3,0.914922,0.545262,1.000000,0.721778,0.997455,results/attention/cbam/example_05_cbam_attention.png
+01764ee81.jpg,Class 3,0.592181,0.548590,0.999982,0.637275,0.982209,results/attention/cbam/example_06_cbam_attention.png

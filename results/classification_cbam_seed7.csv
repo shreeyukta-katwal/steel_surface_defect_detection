@@ -1,0 +1,2 @@
+model,seed,best_epoch,selection_metric,val_loss,precision,recall,macro_f1,micro_f1,roc_auc,training_time_seconds,training_time_minutes,epochs_completed,peak_macro_f1_epoch,peak_macro_f1,checkpoint_path,log_path
+CBAM-ResNet18,7,12,lowest_val_loss,0.0051551283449644885,0.8493604093675087,0.8512934382840036,0.8483543191394685,0.9079637577491655,0.9888876368556553,661.0266492366791,11.017110820611318,17,16,0.874047955490354,checkpoints/cbam_resnet18_seed7_best.pth,logs\cbam_seed7.csv

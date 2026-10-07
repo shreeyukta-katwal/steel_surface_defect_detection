@@ -1,0 +1,2 @@
+model,seed,best_epoch,selection_metric,val_loss,precision,recall,macro_f1,micro_f1,roc_auc,training_time_seconds,training_time_minutes,epochs_completed,peak_macro_f1_epoch,peak_macro_f1,checkpoint_path,log_path
+Baseline ResNet18,42,7,lowest_val_loss,0.005164152454245456,0.8953441349294855,0.7999703859570653,0.8341130632683655,0.8989084005695301,0.9860225551388782,459.6849842071533,7.661416403452555,12,11,0.8598118433581836,checkpoints/baseline_resnet18_seed42_best.pth,logs\baseline_seed42.csv

@@ -1,0 +1,8 @@
+metric,baseline,cbam
+Final Epoch,40,40
+Validation Loss,0.1093,0.1089
+Dice,0.8372,0.8368
+IoU,0.8114,0.8116
+Pixel Accuracy,0.9896,0.9905
+Best Dice Epoch,40,38
+Best Dice,0.8372,0.8393
